@@ -1,0 +1,6 @@
+framework module Pods_ParseSignInWithApple {
+  umbrella header "Pods-ParseSignInWithApple-umbrella.h"
+
+  export *
+  module * { export * }
+}
